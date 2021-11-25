@@ -1,0 +1,20 @@
+# Site settings
+title: Robert Maina
+description: Robert Maina's Portfolio
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Robert Maina
+user_description: Hi there! My name is Robert Maina and I am a software developer specialised in front end development. I also have a passion for building User Interface effects and animations.
+user_title: Software Developer
+email: robertmaina254@gmail.com
+twitter_username: robby_maina
+github_username:  mainarobert
+linkedin_username:  Robert Maina
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
